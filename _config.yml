@@ -1,0 +1,4 @@
+title: GUI with Gio
+description: Delightful GUI in Go
+show_downloads: false
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
