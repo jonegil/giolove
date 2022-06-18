@@ -3,4 +3,4 @@ description: Stuff I love about Gio
 show_downloads: false
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
